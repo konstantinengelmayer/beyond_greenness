@@ -60,6 +60,7 @@ Rscript 1_rolling_correlations_plotwise.r
 - Saves the final correlation table to:
   - `data/analysis_ready_data/corr_table_vi_tri.rds`
 
+> The dendro data used in this project can be obtained upon request.
 ### 2) Final figures
 
 **Run:**
